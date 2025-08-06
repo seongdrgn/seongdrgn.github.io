@@ -23,6 +23,7 @@ Publications
         <span style="color:#003566"><b>Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data with User Commands</b></span> <br>
         Seunghyeon Ha*, <b>Seongyong Kim*</b>, Soo-Chul Lim <br>
         <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846-2853, March 2025</i> <br>
+        <i>IEEE/RSJ International Conference  on Intelligent Robots and Systems (2025 IROS), Oral/Poster Presentation</i> <br>
         DOI: <a href="https://doi.org/10.1109/LRA.2025.3536222">[10.1109/LRA.2025.3536222]</a> <br>
         <a href="https://ieeexplore.ieee.org/document/10857415">[Paper]</a> <a href="https://seongdrgn.github.io/scene-prediction-quadruped/">[project page]</a> <a href="https://www.youtube.com/watch?v=wL9UEJnq53s">[video]</a>
         <br>
