@@ -16,7 +16,7 @@ Publications
 ======
 <!-- Paper: scene prediction for quadruped teleoperation -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <div style="width: 25%; margin-top: 10px;">
+    <div style="width: 35%; margin-top: 10px;">
         <img src="files/video_prediction_result.gif" alt="scene prediction" style="width: 100%;">
     </div>
     <div style="width: 75%; margin-left: 20px;">
