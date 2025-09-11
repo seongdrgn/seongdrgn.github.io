@@ -256,7 +256,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: work experience
     values:
       layout: single
       author_profile: true
