@@ -22,7 +22,7 @@ repository               : "seongdrgn/seongdrgn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio_photo.jpg"
   name             : "Seongyong Kim"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at Dongguk University"
@@ -214,16 +214,16 @@ kramdown:
 
 
 # These settings control the types of collections used by the template
-collections:
-  work_experience:
-    output: true
-    permalink: /:collection/:path/
-  # publications:
-  #   output: true
-  #   permalink: /:collection/:path/
-  projects:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   work_experience:
+#     output: true
+#     permalink: /:collection/:path/
+#   # publications:
+#   #   output: true
+#   #   permalink: /:collection/:path/
+#   projects:
+#     output: true
+#     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
