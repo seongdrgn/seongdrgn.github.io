@@ -58,7 +58,6 @@ Projects
 <dl>
   2024.08 ~ 2024.12<br>
   <dd>
-    <span style="font-size:16px;">
     Collecting Large-scale Robot Manipulation Data in Physical Environment <br>
     <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection">[Github]</a>
     <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825">[Dataset]</a>
@@ -67,7 +66,6 @@ Projects
 <dl>
   2021.04 ~ 2023.12<br>
   <dd>
-    <span style="font-size:16px;">
     Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation
   </dd>
 </dl>
@@ -75,8 +73,10 @@ Projects
 Awards
 ======
 <dl>
-  <span style="font-size:16px;">
-  Best Paper Award (2025 Summer Conference of BK21FOUR AIMS Center)<br>
+  2025<br>
+  <dd>
+    Best Paper Award, <i>2025 Summer Conference of BK21FOUR AIMS Center</i>
+  </dd>
 </dl>
 
 Presentation
@@ -84,14 +84,12 @@ Presentation
 <dl>
   2025.10 <br>
   <dd>
-    <span style="font-size:16px;">
     Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>
   </dd>
 </dl>
 <dl>
   2025.04 <br>
   <dd>
-    <span style="font-size:16px;">
     Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, <i>Workshop in Robot Learning (KROS)</i>
   </dd>
 </dl>
@@ -101,14 +99,12 @@ Work Experience
 <dl>
   2025.03 ~ 2025.06 / 2024.03 ~ 2024.06 <br>
   <dd>
-    <span style="font-size:16px;">
     Teaching Assistant for Introduction to Intelligent Robotics (Dongguk Univ., MEC4100)
   </dd>
 </dl>
 <dl>
   2024.09 ~ 2024.12 / 2022.09 ~ 2022.12 <br>
   <dd>
-    <span style="font-size:16px;">
     Teaching Assistant for Dynamics (Dongguk Univ., MEC2012)
   </dd>
 </dl>
