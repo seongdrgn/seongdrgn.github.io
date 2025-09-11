@@ -47,20 +47,59 @@ Publications
 
 Projects
 ======
-- 2025.07 ~ present : Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data
-- 2025.03 ~ present : Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model
-- 2024.08 ~ 2024.12 : Collecting Large Robot Manipulation Data in Physical Environment
-- 2021.04 ~ 2023.12 : Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation
+<dl>
+  2025.07 ~ present<br>
+  <dd>Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data</dd>
+</dl>
+<dl>
+  2025.03 ~ present<br>
+  <dd>Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model</dd>
+</dl>
+<dl>
+  2024.08 ~ 2024.12<br>
+  <dd>
+    Collecting Large-scale Robot Manipulation Data in Physical Environment <br>
+    <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection">[Github]</a>
+    <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825">[Dataset]</a>
+  </dd>
+</dl>
+<dl>
+  2021.04 ~ 2023.12<br>
+  <dd>Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation</dd>
+</dl>
 
 Awards
 ======
-- Best Paper Award (2025 Summer Conference of BK21FOUR AIMS Center)
+<dl>
+  Best Paper Award (2025 Summer Conference of BK21FOUR AIMS Center)<br>
+</dl>
 
 Presentation
 ======
-- 2025.04 : Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, Workshop in Robot Learning (KROS)
+<dl>
+  2025.10 <br>
+  <dd>
+    Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>
+  </dd>
+</dl>
+<dl>
+  2025.04 <br>
+  <dd>
+    Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, <i>Workshop in Robot Learning (KROS)</i>
+  </dd>
+</dl>
 
 Work Experience
 ======
-- 2025.03 ~ 2025.06 / 2024.03 ~ 2024.06 : Teaching Assistant for Introduction to Intelligent Robotics (Dongguk Univ., MEC4100)
-- 2024.09 ~ 2024.12 / 2022.09 ~ 2022.12 : Teaching Assistant for Dynamics (Dongguk Univ., MEC2012)
+<dl>
+  2025.03 ~ 2025.06 / 2024.03 ~ 2024.06 <br>
+  <dd>
+    Teaching Assistant for Introduction to Intelligent Robotics (Dongguk Univ., MEC4100)
+  </dd>
+</dl>
+<dl>
+  2024.09 ~ 2024.12 / 2022.09 ~ 2022.12 <br>
+  <dd>
+    Teaching Assistant for Dynamics (Dongguk Univ., MEC2012)
+  </dd>
+</dl>
