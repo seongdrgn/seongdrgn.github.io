@@ -44,3 +44,23 @@ Publications
         <br>
     </div>
 </div>
+
+Projects
+======
+- 2025.07 ~ present : Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data
+- 2025.03 ~ present : Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model
+- 2024.08 ~ 2024.12 : Collecting Large Robot Manipulation Data in Physical Environment
+- 2021.04 ~ 2023.12 : Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation
+
+Awards
+======
+- Best Paper Award (2025 Summer Conference of BK21FOUR AIMS Center)
+
+Presentation
+======
+- 2025.04 : Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, Workshop in Robot Learning (KROS)
+
+Work Experience
+======
+- 2025.03 ~ 2025.06 / 2024.03 ~ 2024.06 : Teaching Assistant for Introduction to Intelligent Robotics (Dongguk Univ., MEC4100)
+- 2024.09 ~ 2024.12 / 2022.09 ~ 2022.12 : Teaching Assistant for Dynamics (Dongguk Univ., MEC2012)
