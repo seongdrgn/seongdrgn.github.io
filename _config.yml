@@ -215,7 +215,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  work_experience:
     output: true
     permalink: /:collection/:path/
   # publications:
@@ -245,23 +245,23 @@ defaults:
   #     share: true
   #     comments: true
   # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _teaching
-  - scope:
-      path: ""
-      type: work experience
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: projects
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: work_experience
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
 
 # Sass/SCSS
 sass:
