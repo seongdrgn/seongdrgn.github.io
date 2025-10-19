@@ -12,6 +12,8 @@ I am a Ph.D. candidate in Mechanical Engineering at Dongguk University, Korea, w
 
 My research interests include **reinforcement learning and deep learning for robotics**, with a focus on deploying various robotic tasks in real-world environments.
 
+<hr style="border: 1px solid #ccc; margin: 60px 0;">
+
 Publications
 ======
 <!-- Paper: scene prediction for quadruped teleoperation -->
@@ -45,6 +47,8 @@ Publications
     </div>
 </div>
 
+<hr style="border: 1px solid #ccc; margin: 60px 0;">
+
 Projects
 ======
 <dl>
@@ -70,6 +74,8 @@ Projects
   </dd>
 </dl>
 
+<hr style="border: 1px solid #ccc; margin: 60px 0;">
+
 Awards
 ======
 <dl>
@@ -78,6 +84,8 @@ Awards
     Best Paper Award, <i>2025 Summer Conference of BK21FOUR AIMS Center</i>
   </dd>
 </dl>
+
+<hr style="border: 1px solid #ccc; margin: 60px 0;">
 
 Presentation
 ======
@@ -93,6 +101,8 @@ Presentation
     Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, <i>Workshop in Robot Learning (KROS)</i>
   </dd>
 </dl>
+
+<hr style="border: 1px solid #ccc; margin: 60px 0;">
 
 Work Experience
 ======
