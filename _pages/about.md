@@ -108,6 +108,7 @@ Presentation
   2025.10 <br>
   <dd>
     Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>
+    <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a>
   </dd>
 </dl>
 <dl>
