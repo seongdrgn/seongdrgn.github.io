@@ -16,6 +16,21 @@ My research interests include **reinforcement learning and deep learning for rob
 
 Publications
 ======
+<!-- Paper: Progressive Policy Learning -->
+<div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
+    <div style="width: 35%; margin-top: 10px;">
+        <img src="files/progressive_policy_learning.gif" alt="Progressive Policy Learning" style="width: 100%;">
+    </div>
+    <div style="width: 75%; margin-left: 20px;">
+        <span style="color:#003566"><b>Progressive Policy Learning: A Hierarchical Framework for Dexterous Bimanual Manipulation</b></span> <br>
+        Kang-Won Lee*, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim <br>
+        <i>Mathematics 2025, 13(22), 3585</i> <br>
+        DOI: <a href="https://doi.org/10.3390/math13223585">[10.3390/math13223585]</a> <br>
+        <a href="https://www.mdpi.com/2227-7390/13/22/3585">[Paper]</a> <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w">[video]</a>
+        <br>
+    </div>
+</div>
+
 <!-- Paper: scene prediction for quadruped teleoperation -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
     <div style="width: 35%; margin-top: 10px;">
