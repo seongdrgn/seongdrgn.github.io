@@ -25,8 +25,8 @@ Publications
         <span style="color:#003566"><b>Progressive Policy Learning: A Hierarchical Framework for Dexterous Bimanual Manipulation</b></span> <br>
         Kang-Won Lee*, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim <br>
         <i>Mathematics 2025, 13(22), 3585</i> <br>
-        DOI: <a href="https://doi.org/10.3390/math13223585">[10.3390/math13223585]</a> <br>
-        <a href="https://www.mdpi.com/2227-7390/13/22/3585">[Paper]</a> <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w">[Video]</a>
+        DOI: <a href="https://doi.org/10.3390/math13223585" target="_blank">[10.3390/math13223585]</a> <br>
+        <a href="https://www.mdpi.com/2227-7390/13/22/3585" target="_blank">[Paper]</a> <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w" target="_blank">[Video]</a>
         <br>
     </div>
 </div>
@@ -41,8 +41,8 @@ Publications
         Seunghyeon Ha*, <b>Seongyong Kim*</b>, Soo-Chul Lim <br>
         <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846-2853, March 2025</i> <br>
         <i>IEEE/RSJ International Conference  on Intelligent Robots and Systems (IROS 2025), Oral/Poster Presentation</i> <br>
-        DOI: <a href="https://doi.org/10.1109/LRA.2025.3536222">[10.1109/LRA.2025.3536222]</a> <br>
-        <a href="https://ieeexplore.ieee.org/document/10857415">[Paper]</a> <a href="https://seongdrgn.github.io/scene-prediction-quadruped/">[Project page]</a> <a href="https://www.youtube.com/watch?v=wL9UEJnq53s">[Video]</a> <a href="files/IROS2025_Poster.pdf">[Conference Poster]</a>
+        DOI: <a href="https://doi.org/10.1109/LRA.2025.3536222" target="_blank">[10.1109/LRA.2025.3536222]</a> <br>
+        <a href="https://ieeexplore.ieee.org/document/10857415" target="_blank">[Paper]</a> <a href="https://seongdrgn.github.io/scene-prediction-quadruped/" target="_blank">[Project page]</a> <a href="https://www.youtube.com/watch?v=wL9UEJnq53s" target="_blank">[Video]</a> <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a>
         <br>
     </div>
 </div>
@@ -56,8 +56,8 @@ Publications
         <span style="color:#003566"><b>Effects of Sensing Tactile Arrays, Shear Force, and Proprioception of Robot on Texture Recognition</b></span> <br>
         Jung-Hwan Yang*, <b>Seongyong Kim</b>, Soo-Chul Lim <br>
         <i>Sensors 23, no. 6: 3201</i> <br>
-        DOI: <a href="https://doi.org/10.3390/s23063201">[10.3390/s23063201]</a> <br>
-        <a href="https://www.mdpi.com/1424-8220/23/6/3201">[Paper]</a> <a href="https://www.youtube.com/watch?v=l--EEY5fy4g">[Video]</a>
+        DOI: <a href="https://doi.org/10.3390/s23063201" target="_blank">[10.3390/s23063201]</a> <br>
+        <a href="https://www.mdpi.com/1424-8220/23/6/3201" target="_blank">[Paper]</a> <a href="https://www.youtube.com/watch?v=l--EEY5fy4g" target="_blank">[Video]</a>
         <br>
     </div>
 </div>
@@ -78,8 +78,8 @@ Projects
   2024.08 ~ 2024.12<br>
   <dd>
     Collecting Large-scale Robot Manipulation Data in Physical Environment <br>
-    <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection">[Github]</a>
-    <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825">[Dataset]</a>
+    <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection" target="_blank">[Github]</a>
+    <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825" target="_blank">[Dataset]</a>
   </dd>
 </dl>
 <dl>
