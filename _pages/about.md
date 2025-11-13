@@ -26,7 +26,7 @@ Publications
         Kang-Won Lee*, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim <br>
         <i>Mathematics 2025, 13(22), 3585</i> <br>
         DOI: <a href="https://doi.org/10.3390/math13223585">[10.3390/math13223585]</a> <br>
-        <a href="https://www.mdpi.com/2227-7390/13/22/3585">[Paper]</a> <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w">[video]</a>
+        <a href="https://www.mdpi.com/2227-7390/13/22/3585">[Paper]</a> <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w">[Video]</a>
         <br>
     </div>
 </div>
@@ -42,7 +42,7 @@ Publications
         <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846-2853, March 2025</i> <br>
         <i>IEEE/RSJ International Conference  on Intelligent Robots and Systems (IROS 2025), Oral/Poster Presentation</i> <br>
         DOI: <a href="https://doi.org/10.1109/LRA.2025.3536222">[10.1109/LRA.2025.3536222]</a> <br>
-        <a href="https://ieeexplore.ieee.org/document/10857415">[Paper]</a> <a href="https://seongdrgn.github.io/scene-prediction-quadruped/">[project page]</a> <a href="https://www.youtube.com/watch?v=wL9UEJnq53s">[video]</a>
+        <a href="https://ieeexplore.ieee.org/document/10857415">[Paper]</a> <a href="https://seongdrgn.github.io/scene-prediction-quadruped/">[Project page]</a> <a href="https://www.youtube.com/watch?v=wL9UEJnq53s">[Video]</a> <a href="files/IROS2025_Poster.pdf">[Conference Poster]</a>
         <br>
     </div>
 </div>
@@ -57,7 +57,7 @@ Publications
         Jung-Hwan Yang*, <b>Seongyong Kim</b>, Soo-Chul Lim <br>
         <i>Sensors 23, no. 6: 3201</i> <br>
         DOI: <a href="https://doi.org/10.3390/s23063201">[10.3390/s23063201]</a> <br>
-        <a href="https://www.mdpi.com/1424-8220/23/6/3201">[Paper]</a> <a href="https://www.youtube.com/watch?v=l--EEY5fy4g">[video]</a>
+        <a href="https://www.mdpi.com/1424-8220/23/6/3201">[Paper]</a> <a href="https://www.youtube.com/watch?v=l--EEY5fy4g">[Video]</a>
         <br>
     </div>
 </div>
