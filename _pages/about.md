@@ -67,26 +67,26 @@ Publications
 Projects
 ======
 <dl>
-  2025.07 ~ present<br>
-  <dd>Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data</dd>
+  <dd>2025 ~ present</dd>
+  Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data<br>
+  
 </dl>
 <dl>
-  2025.03 ~ present<br>
-  <dd>Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model</dd>
+  Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model<br>
 </dl>
 <dl>
-  2024.08 ~ 2024.12<br>
+  <dd>2024</dd>
+  Collecting Large-scale Robot Manipulation Data in Physical Environment<br>
   <dd>
-    Collecting Large-scale Robot Manipulation Data in Physical Environment <br>
     <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection" target="_blank">[Github]</a>
     <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825" target="_blank">[Dataset]</a>
   </dd>
 </dl>
 <dl>
-  2021.04 ~ 2023.12<br>
-  <dd>
-    Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation
-  </dd>
+    <dd>
+      2021~2023
+    </dd>
+  Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation <br>
 </dl>
 
 <hr style="border: 1px solid #ccc; margin: 60px 0;">
@@ -94,10 +94,11 @@ Projects
 Awards
 ======
 <dl>
-  2025<br>
-  <dd>
-    Best Paper Award, <i>2025 Summer Conference of BK21FOUR AIMS Center</i>
-  </dd>
+    <dd>
+      2025
+    </dd>
+  Best Paper Award, <i>2025 Summer Conference of BK21FOUR AIMS Center<br>
+
 </dl>
 
 <hr style="border: 1px solid #ccc; margin: 60px 0;">
@@ -105,17 +106,19 @@ Awards
 Presentation
 ======
 <dl>
-  2025.10 <br>
+    <dd>
+      2025
+    </dd>
+  Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <br>
   <dd>
-    Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>
     <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a>
   </dd>
 </dl>
 <dl>
-  2025.04 <br>
-  <dd>
-    Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, <i>Workshop in Robot Learning (KROS)</i>
-  </dd>
+    <dd>
+      2025
+    </dd>
+  Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, <i>Workshop in Robot Learning (KROS)<br>
 </dl>
 
 <hr style="border: 1px solid #ccc; margin: 60px 0;">
