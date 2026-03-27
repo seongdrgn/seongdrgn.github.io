@@ -64,76 +64,133 @@ Publications
 
 <hr style="border: 1px solid #ccc; margin: 60px 0;">
 
-Projects
-======
-<dl>
-  <dd>2025 ~ present</dd>
-  Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data<br>
-  
-</dl>
-<dl>
-  Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model<br>
-</dl>
-<dl>
-  <dd>2024</dd>
-  Collecting Large-scale Robot Manipulation Data in Physical Environment<br>
-  <dd>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 14px;
+    color: #222;
+  }
+  h2 {
+    font-size: 1.2em;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 4px;
+    margin-top: 40px;
+  }
+  .entry {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 12px 0;
+    gap: 20px;
+  }
+  .entry-left {
+    flex: 1;
+  }
+  .entry-left a {
+    margin-right: 6px;
+    color: #1a0dab;
+    text-decoration: none;
+    font-size: 0.9em;
+  }
+  .entry-left a:hover { text-decoration: underline; }
+  .entry-right {
+    white-space: nowrap;
+    color: #555;
+    font-size: 0.9em;
+    min-width: 140px;
+    text-align: right;
+  }
+  hr { border: 1px solid #ccc; margin: 40px 0; }
+</style>
+</head>
+<body>
+
+<h2>Projects</h2>
+
+<div class="entry">
+  <div class="entry-left">
+    Development of Intelligent Autonomous Manipulation Technology for Humanoids with Reduced Dependency on Real-World Data
+  </div>
+  <div class="entry-right">Jul 2025 – Present</div>
+</div>
+
+<div class="entry">
+  <div class="entry-left">
+    Robot Motion Generation AI based on Multimodal Vision/Tactile Information Driven by Language Model
+  </div>
+  <div class="entry-right">Mar 2025 – Present</div>
+</div>
+
+<div class="entry">
+  <div class="entry-left">
+    Collecting Large-scale Robot Manipulation Data in Physical Environment<br>
     <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection" target="_blank">[Github]</a>
     <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825" target="_blank">[Dataset]</a>
-  </dd>
-</dl>
-<dl>
-    <dd>
-      2021~2023
-    </dd>
-  Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation <br>
-</dl>
+  </div>
+  <div class="entry-right">Aug 2024 – Dec 2024</div>
+</div>
 
-<hr style="border: 1px solid #ccc; margin: 60px 0;">
+<div class="entry">
+  <div class="entry-left">
+    Development of a High-performance Multimodal Electronic Skin Sensor of Hybrid-type and A Scalable Module for Robot Manipulation
+  </div>
+  <div class="entry-right">2021 – 2023</div>
+</div>
 
-Awards
-======
-<dl>
-    <dd>
-      2025
-    </dd>
-  Best Paper Award, <i>2025 Summer Conference of BK21FOUR AIMS Center<br>
+<hr>
 
-</dl>
+<h2>Awards</h2>
 
-<hr style="border: 1px solid #ccc; margin: 60px 0;">
+<div class="entry">
+  <div class="entry-left">
+    Best Paper Award, <em>2025 Summer Conference of BK21FOUR AIMS Center</em>
+  </div>
+  <div class="entry-right">2025</div>
+</div>
 
-Presentation
-======
-<dl>
-    <dd>
-      2025
-    </dd>
-  Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands, <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) <br>
-  <dd>
+<hr>
+
+<h2>Presentation</h2>
+
+<div class="entry">
+  <div class="entry-left">
+    Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands, <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em><br>
     <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a>
-  </dd>
-</dl>
-<dl>
-    <dd>
-      2025
-    </dd>
-  Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, <i>Workshop in Robot Learning (KROS)<br>
-</dl>
+  </div>
+  <div class="entry-right">2025</div>
+</div>
 
-<hr style="border: 1px solid #ccc; margin: 60px 0;">
+<div class="entry">
+  <div class="entry-left">
+    Multi-agent Reinforcement Learning for Catching Thrown Object using Pixel-wise Features, <em>Workshop in Robot Learning (KROS)</em>
+  </div>
+  <div class="entry-right">2025</div>
+</div>
 
-Work Experience
-======
-<dl>
-  2025.03 ~ 2025.06 / 2024.03 ~ 2024.06 <br>
-  <dd>
+<hr>
+
+<h2>Work Experience</h2>
+
+<div class="entry">
+  <div class="entry-left">
     Teaching Assistant for Introduction to Intelligent Robotics (Dongguk Univ., MEC4100)
-  </dd>
-</dl>
-<dl>
-  2024.09 ~ 2024.12 / 2022.09 ~ 2022.12 <br>
-  <dd>
+  </div>
+  <div class="entry-right">Mar 2025 – Jun 2025<br>Mar 2024 – Jun 2024</div>
+</div>
+
+<div class="entry">
+  <div class="entry-left">
     Teaching Assistant for Dynamics (Dongguk Univ., MEC2012)
-  </dd>
-</dl>
+  </div>
+  <div class="entry-right">Sep 2024 – Dec 2024<br>Sep 2022 – Dec 2022</div>
+</div>
+
+</body>
+</html>
