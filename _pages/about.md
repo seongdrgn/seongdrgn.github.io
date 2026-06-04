@@ -10,7 +10,7 @@ redirect_from:
 <style>
 .section-sep { border: none; border-top: 1px solid #ccc; margin: 48px 0; }
 .pub { display:flex; align-items:flex-start; gap:20px; margin-bottom:32px; flex-wrap:wrap; }
-.pub-thumb { width:200px; flex-shrink:0; margin-top:6px; }
+.pub-thumb { width:300px; flex-shrink:0; margin-top:6px; }
 .pub-thumb img { width:100%; border-radius:4px; }
 .pub-title { color:#003566; font-weight:700; }
 .entry { display:flex; justify-content:space-between; align-items:flex-start; gap:24px; margin:14px 0; flex-wrap:wrap; }
