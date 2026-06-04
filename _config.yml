@@ -26,8 +26,8 @@ author:
   name             : "Seongyong Kim"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate at Dongguk University"
-  location         : "Seoul, Republic of Korea"
-  employer         : "Dongguk University"
+  location         :
+  employer         :
   uri              : # URL
   email            : "sykim_414@dgu.ac.kr" 
 
