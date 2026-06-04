@@ -13,15 +13,17 @@ redirect_from:
 .pub-thumb { width:300px; flex-shrink:0; margin-top:6px; }
 .pub-thumb img { width:100%; border-radius:4px; }
 .pub-title { color:#003566; font-weight:700; }
-.entry { display:flex; justify-content:space-between; align-items:flex-start; gap:24px; margin:14px 0; flex-wrap:wrap; }
-.entry-date { white-space:nowrap; color:#555; font-size:0.9em; min-width:150px; text-align:right; }
+.entry { display:grid; grid-template-columns:1fr 150px; gap:2px 22px; align-items:start; padding:12px 0; border-bottom:1px solid #f0f0f0; }
+.entry:last-of-type { border-bottom:none; }
+.entry-date { white-space:nowrap; color:#666; font-size:0.85em; text-align:right; }
 .note { color:#777; font-size:0.85em; }
 .links { margin-top:8px; }
 .links a { display:inline-block; padding:2px 11px; margin:4px 6px 0 0; border-radius:5px; background:#eef0f3; color:#222; font-size:0.82em; font-weight:600; text-decoration:none; border:1px solid #dde1e6; }
 .links a:hover { background:#003566; color:#fff; border-color:#003566; }
 @media (max-width: 600px) {
   .pub-thumb { width:100%; }
-  .entry-date { text-align:left; min-width:0; }
+  .entry { grid-template-columns:1fr; gap:4px; }
+  .entry-date { text-align:left; }
 }
 </style>
 
