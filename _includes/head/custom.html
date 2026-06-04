@@ -14,15 +14,16 @@
 <link rel="icon" href="/images/favicon.ico"/>
 <meta name="theme-color" content="#ffffff"/>
 
-<!-- profile social links: brand-colored icons + banner styling -->
+<!-- profile social links: brand-tinted banner buttons -->
 <style>
-  .author__urls li { border-radius: 6px; transition: background 0.15s ease; }
-  .author__urls li a { font-weight: 600; }
-  .author__urls li:hover { background: #f2f4f7; }
-  .author__urls .fa-envelope      { color: #EA4335; }  /* Email */
-  .author__urls .ai-google-scholar{ color: #4285F4; }  /* Google Scholar */
-  .author__urls .ai-orcid         { color: #A6CE39; }  /* ORCID */
-  .author__urls .fa-github        { color: #181717; }  /* GitHub */
+  .author__urls li { border-radius: 6px; margin-bottom: 7px; transition: filter 0.15s ease; }
+  .author__urls li:hover { filter: brightness(0.96); }
+  .author__urls li a { display: block; padding: 7px 12px; font-weight: 600; color: #2b2b2b; }
+  .author__urls li a:hover { text-decoration: none; }
+  .lnk-github  { background: #eceef1; } .lnk-github  i { color: #24292e; }
+  .lnk-scholar { background: #e8f0fe; } .lnk-scholar i { color: #4285F4; }
+  .lnk-orcid   { background: #f1f7e1; } .lnk-orcid   i { color: #94b830; }
+  .lnk-email   { background: #fdeceb; } .lnk-email   i { color: #EA4335; }
 </style>
 
 <!-- end custom head snippets -->
