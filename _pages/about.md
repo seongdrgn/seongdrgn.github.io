@@ -22,6 +22,14 @@ redirect_from:
 }
 </style>
 
+<p align="center">
+  <a href="mailto:sykim_414@dgu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?user=AjX_4d8AAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0001-8753-474X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="https://github.com/seongdrgn" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="files/CV.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-555555?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+</p>
+
 I am a Ph.D. candidate in Mechanical Engineering at Dongguk University, Korea, where I also completed my M.S. degree. My research is supervised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/).
 
 My research interests include **reinforcement learning and deep learning for robotics**, with a focus on deploying various robotic tasks in real-world environments.
