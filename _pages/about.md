@@ -18,8 +18,9 @@ redirect_from:
 .entry-date { white-space:nowrap; color:#666; font-size:0.85em; text-align:right; }
 .note { color:#777; font-size:0.85em; }
 .links { margin-top:8px; }
-.links a { display:inline-block; padding:2px 11px; margin:4px 6px 0 0; border-radius:5px; background:#eef0f3; color:#222; font-size:0.82em; font-weight:600; text-decoration:none; border:1px solid #dde1e6; }
-.links a:hover { background:#003566; color:#fff; border-color:#003566; }
+.links a { display:inline-block; padding:3px 12px; margin:4px 6px 0 0; border-radius:5px; background:#003566; color:#fff; font-size:0.82em; font-weight:600; text-decoration:none; border:1px solid #003566; }
+.links a:hover { background:#0a4f8a; border-color:#0a4f8a; }
+.tag { display:inline-block; padding:1px 9px; border-radius:4px; background:#ffe2a8; color:#8a5300; font-size:0.78em; font-weight:700; letter-spacing:0.2px; }
 @media (max-width: 600px) {
   .pub-thumb { width:100%; }
   .entry { grid-template-columns:1fr; gap:4px; }
@@ -61,7 +62,6 @@ My research interests include **reinforcement learning and deep learning for rob
     <i>Mathematics 2025, 13(22), 3585</i>
     <div class="links">
       <a href="https://www.mdpi.com/2227-7390/13/22/3585" target="_blank">Paper</a>
-      <a href="https://doi.org/10.3390/math13223585" target="_blank">DOI</a>
       <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w" target="_blank">Video</a>
     </div>
   </div>
@@ -75,10 +75,9 @@ My research interests include **reinforcement learning and deep learning for rob
     <span class="pub-title">Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data with User Commands</span><br>
     Seunghyeon Ha*, <b>Seongyong Kim*</b>, Soo-Chul Lim<br>
     <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846–2853, March 2025</i><br>
-    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Oral/Poster Presentation</i>
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</i> <span class="tag">Oral &amp; Poster Presentation</span>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10857415" target="_blank">Paper</a>
-      <a href="https://doi.org/10.1109/LRA.2025.3536222" target="_blank">DOI</a>
       <a href="https://seongdrgn.github.io/scene-prediction-quadruped/" target="_blank">Project Page</a>
       <a href="https://www.youtube.com/watch?v=wL9UEJnq53s" target="_blank">Video</a>
       <a href="files/IROS2025_Poster.pdf" target="_blank">Poster</a>
@@ -97,7 +96,6 @@ My research interests include **reinforcement learning and deep learning for rob
     <i>Sensors 23, no. 6: 3201</i>
     <div class="links">
       <a href="https://www.mdpi.com/1424-8220/23/6/3201" target="_blank">Paper</a>
-      <a href="https://doi.org/10.3390/s23063201" target="_blank">DOI</a>
       <a href="https://www.youtube.com/watch?v=l--EEY5fy4g" target="_blank">Video</a>
     </div>
   </div>
