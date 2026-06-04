@@ -145,8 +145,10 @@ My research interests include **reinforcement learning and deep learning for rob
 <div class="entry">
   <div>
     Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands,
-    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i><br>
-    <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a>
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i>
+    <div class="links">
+      <a href="files/IROS2025_Poster.pdf" target="_blank">Poster</a>
+    </div>
   </div>
   <div class="entry-date">2025</div>
 </div>
