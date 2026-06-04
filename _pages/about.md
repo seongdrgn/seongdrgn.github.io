@@ -18,8 +18,8 @@ redirect_from:
 .entry-date { white-space:nowrap; color:#666; font-size:0.85em; text-align:right; }
 .note { color:#777; font-size:0.85em; }
 .links { margin-top:8px; }
-.links a { display:inline-block; padding:3px 12px; margin:4px 6px 0 0; border-radius:5px; background:#003566; color:#fff; font-size:0.82em; font-weight:600; text-decoration:none; border:1px solid #003566; }
-.links a:hover { background:#0a4f8a; border-color:#0a4f8a; }
+.links a { display:inline-block; padding:3px 12px; margin:4px 6px 0 0; border-radius:5px; background:#5b8bc2; color:#fff; font-size:0.82em; font-weight:600; text-decoration:none; border:1px solid #5b8bc2; }
+.links a:hover { background:#3f6fa6; border-color:#3f6fa6; }
 .tag { display:inline-block; padding:1px 9px; border-radius:4px; background:#ffe2a8; color:#8a5300; font-size:0.78em; font-weight:700; letter-spacing:0.2px; }
 @media (max-width: 600px) {
   .pub-thumb { width:100%; }
