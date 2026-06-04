@@ -117,9 +117,11 @@ My research interests include **reinforcement learning and deep learning for rob
 
 <div class="entry">
   <div>
-    Collecting Large-scale Robot Manipulation Data in Physical Environment<br>
-    <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection" target="_blank">[Github]</a>
-    <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825" target="_blank">[Dataset]</a>
+    Collecting Large-scale Robot Manipulation Data in Physical Environment
+    <div class="links">
+      <a href="https://github.com/seongdrgn/Large-Scale-Robotic-Manipulation-Data-Collection" target="_blank">GitHub</a>
+      <a href="https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=71825" target="_blank">Dataset</a>
+    </div>
   </div>
   <div class="entry-date">Aug 2024 – Dec 2024</div>
 </div>
