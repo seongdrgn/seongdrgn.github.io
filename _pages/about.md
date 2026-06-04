@@ -50,7 +50,7 @@ My research interests include **reinforcement learning and deep learning for rob
   </div>
   <div>
     <span class="pub-title">Progressive Policy Learning: A Hierarchical Framework for Dexterous Bimanual Manipulation</span><br>
-    Kang-Won Lee*, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
+    Kang-Won Lee, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
     <i>Mathematics 2025, 13(22), 3585</i><br>
     DOI: <a href="https://doi.org/10.3390/math13223585" target="_blank">[10.3390/math13223585]</a><br>
     <a href="https://www.mdpi.com/2227-7390/13/22/3585" target="_blank">[Paper]</a>
@@ -71,7 +71,8 @@ My research interests include **reinforcement learning and deep learning for rob
     <a href="https://ieeexplore.ieee.org/document/10857415" target="_blank">[Paper]</a>
     <a href="https://seongdrgn.github.io/scene-prediction-quadruped/" target="_blank">[Project page]</a>
     <a href="https://www.youtube.com/watch?v=wL9UEJnq53s" target="_blank">[Video]</a>
-    <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a>
+    <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a><br>
+    <span class="note">* Equal contribution</span>
   </div>
 </div>
 
@@ -81,15 +82,13 @@ My research interests include **reinforcement learning and deep learning for rob
   </div>
   <div>
     <span class="pub-title">Effects of Sensing Tactile Arrays, Shear Force, and Proprioception of Robot on Texture Recognition</span><br>
-    Jung-Hwan Yang*, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
+    Jung-Hwan Yang, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
     <i>Sensors 23, no. 6: 3201</i><br>
     DOI: <a href="https://doi.org/10.3390/s23063201" target="_blank">[10.3390/s23063201]</a><br>
     <a href="https://www.mdpi.com/1424-8220/23/6/3201" target="_blank">[Paper]</a>
     <a href="https://www.youtube.com/watch?v=l--EEY5fy4g" target="_blank">[Video]</a>
   </div>
 </div>
-
-<p class="note">* Equal contribution</p>
 
 <hr class="section-sep">
 
