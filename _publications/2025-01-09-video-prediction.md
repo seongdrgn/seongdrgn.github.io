@@ -10,4 +10,3 @@ paperurl: 'http://seongdrgn.github.io/files/Prediction_of_Delay-Free_Scene_for_Q
 bibtexurl: 'http://seongdrgn.github.io/files/video_prediction.bib'
 citation: 'S. Ha, S. Kim and S. -C. Lim, "Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data With User Commands," in IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846-2853, March 2025'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

@@ -10,4 +10,3 @@ paperurl: 'http://seongdrgn.github.io/files/tactile_array.pdf'
 bibtexurl: 'http://seongdrgn.github.io/files/tactile_array.bib'
 citation: 'Yang, J.-H., Kim, S.-Y., & Lim, S.-C. (2023). Effects of Sensing Tactile Arrays, Shear Force, and Proprioception of Robot on Texture Recognition. Sensors, 23(6), 3201.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
