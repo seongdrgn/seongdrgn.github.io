@@ -16,19 +16,14 @@ redirect_from:
 .entry { display:flex; justify-content:space-between; align-items:flex-start; gap:24px; margin:14px 0; flex-wrap:wrap; }
 .entry-date { white-space:nowrap; color:#555; font-size:0.9em; min-width:150px; text-align:right; }
 .note { color:#777; font-size:0.85em; }
+.links { margin-top:8px; }
+.links a { display:inline-block; padding:2px 11px; margin:4px 6px 0 0; border-radius:5px; background:#eef0f3; color:#222; font-size:0.82em; font-weight:600; text-decoration:none; border:1px solid #dde1e6; }
+.links a:hover { background:#003566; color:#fff; border-color:#003566; }
 @media (max-width: 600px) {
   .pub-thumb { width:100%; }
   .entry-date { text-align:left; min-width:0; }
 }
 </style>
-
-<p align="center">
-  <a href="mailto:sykim_414@dgu.ac.kr"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://scholar.google.com/citations?user=AjX_4d8AAAAJ&hl=ko" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://orcid.org/0000-0001-8753-474X" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID"></a>
-  <a href="https://github.com/seongdrgn" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="files/CV.pdf" target="_blank"><img src="https://img.shields.io/badge/CV-555555?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
-</p>
 
 I am a Ph.D. candidate in Mechanical Engineering at Dongguk University, Korea, where I also completed my M.S. degree. My research is supervised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/).
 
@@ -45,10 +40,12 @@ My research interests include **reinforcement learning and deep learning for rob
   <div>
     <span class="pub-title">Pixel2Catch: Multi-Agent Sim-to-Real Transfer for Agile Manipulation with a Single RGB Camera</span><br>
     <b>Seongyong Kim</b>, Junhyeon Cho, Kang-Won Lee, Soo-Chul Lim<br>
-    <i>IEEE Robotics and Automation Letters (RA-L), 2026 (Accepted)</i><br>
-    <a href="https://seongdrgn.github.io/pixel2catch/" target="_blank">[Project page]</a>
-    <a href="https://www.youtube.com/watch?v=kV10T-2zh5w" target="_blank">[Video]</a>
-    <a href="https://github.com/seongdrgn/pixel2catch-github" target="_blank">[Code]</a>
+    <i>IEEE Robotics and Automation Letters (RA-L), 2026 (Accepted)</i>
+    <div class="links">
+      <a href="https://seongdrgn.github.io/pixel2catch/" target="_blank">Project Page</a>
+      <a href="https://www.youtube.com/watch?v=kV10T-2zh5w" target="_blank">Video</a>
+      <a href="https://github.com/seongdrgn/pixel2catch-github" target="_blank">Code</a>
+    </div>
   </div>
 </div>
 
@@ -59,10 +56,12 @@ My research interests include **reinforcement learning and deep learning for rob
   <div>
     <span class="pub-title">Progressive Policy Learning: A Hierarchical Framework for Dexterous Bimanual Manipulation</span><br>
     Kang-Won Lee, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
-    <i>Mathematics 2025, 13(22), 3585</i><br>
-    DOI: <a href="https://doi.org/10.3390/math13223585" target="_blank">[10.3390/math13223585]</a><br>
-    <a href="https://www.mdpi.com/2227-7390/13/22/3585" target="_blank">[Paper]</a>
-    <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w" target="_blank">[Video]</a>
+    <i>Mathematics 2025, 13(22), 3585</i>
+    <div class="links">
+      <a href="https://www.mdpi.com/2227-7390/13/22/3585" target="_blank">Paper</a>
+      <a href="https://doi.org/10.3390/math13223585" target="_blank">DOI</a>
+      <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w" target="_blank">Video</a>
+    </div>
   </div>
 </div>
 
@@ -74,12 +73,14 @@ My research interests include **reinforcement learning and deep learning for rob
     <span class="pub-title">Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data with User Commands</span><br>
     Seunghyeon Ha*, <b>Seongyong Kim*</b>, Soo-Chul Lim<br>
     <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846–2853, March 2025</i><br>
-    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Oral/Poster Presentation</i><br>
-    DOI: <a href="https://doi.org/10.1109/LRA.2025.3536222" target="_blank">[10.1109/LRA.2025.3536222]</a><br>
-    <a href="https://ieeexplore.ieee.org/document/10857415" target="_blank">[Paper]</a>
-    <a href="https://seongdrgn.github.io/scene-prediction-quadruped/" target="_blank">[Project page]</a>
-    <a href="https://www.youtube.com/watch?v=wL9UEJnq53s" target="_blank">[Video]</a>
-    <a href="files/IROS2025_Poster.pdf" target="_blank">[Conference Poster]</a><br>
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Oral/Poster Presentation</i>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10857415" target="_blank">Paper</a>
+      <a href="https://doi.org/10.1109/LRA.2025.3536222" target="_blank">DOI</a>
+      <a href="https://seongdrgn.github.io/scene-prediction-quadruped/" target="_blank">Project Page</a>
+      <a href="https://www.youtube.com/watch?v=wL9UEJnq53s" target="_blank">Video</a>
+      <a href="files/IROS2025_Poster.pdf" target="_blank">Poster</a>
+    </div>
     <span class="note">* Equal contribution</span>
   </div>
 </div>
@@ -91,10 +92,12 @@ My research interests include **reinforcement learning and deep learning for rob
   <div>
     <span class="pub-title">Effects of Sensing Tactile Arrays, Shear Force, and Proprioception of Robot on Texture Recognition</span><br>
     Jung-Hwan Yang, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
-    <i>Sensors 23, no. 6: 3201</i><br>
-    DOI: <a href="https://doi.org/10.3390/s23063201" target="_blank">[10.3390/s23063201]</a><br>
-    <a href="https://www.mdpi.com/1424-8220/23/6/3201" target="_blank">[Paper]</a>
-    <a href="https://www.youtube.com/watch?v=l--EEY5fy4g" target="_blank">[Video]</a>
+    <i>Sensors 23, no. 6: 3201</i>
+    <div class="links">
+      <a href="https://www.mdpi.com/1424-8220/23/6/3201" target="_blank">Paper</a>
+      <a href="https://doi.org/10.3390/s23063201" target="_blank">DOI</a>
+      <a href="https://www.youtube.com/watch?v=l--EEY5fy4g" target="_blank">Video</a>
+    </div>
   </div>
 </div>
 
