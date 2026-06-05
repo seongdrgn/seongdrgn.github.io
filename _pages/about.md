@@ -34,16 +34,11 @@ My research builds **reinforcement learning** methods that transfer reliably fro
 
 ## Research Interests
 
-- **Reinforcement Learning for Robotics**
-- **Sim-to-Real Transfer**
-- **Bridging the Sim-to-Real Gap**
-- **Robot Manipulation**
-- **Dexterous Manipulation**
-- Multi-Agent Reinforcement Learning
-- Vision- and Tactile-based Perception for Manipulation
-- Dynamic & Agile Manipulation (e.g., in-flight object catching)
-- Bimanual Manipulation
-- Robot Teleoperation & Delay-Aware Scene Prediction
+- Reinforcement Learning for Robotics
+- Sim-to-Real Transfer
+- Bridging the Sim-to-Real Gap
+- Robot Manipulation
+- Dexterous Manipulation
 
 <hr class="section-sep">
 
