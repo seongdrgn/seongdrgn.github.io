@@ -28,9 +28,22 @@ redirect_from:
 }
 </style>
 
-I am a Ph.D. candidate in Mechanical Engineering at Dongguk University, Korea, where I also completed my M.S. degree. My research is supervised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/).
+I am a Ph.D. candidate in Mechanical Engineering at Dongguk University, Korea, advised by Professor [Soo-Chul Lim](http://irobot.dgu.edu/), where I also earned my M.S. degree.
 
-My research interests include **reinforcement learning and deep learning for robotics**, with a focus on deploying various robotic tasks in real-world environments.
+My research builds **reinforcement learning** methods that transfer reliably from simulation to the real world, enabling robots to perform **dexterous and dynamic manipulation** tasks.
+
+## Research Interests
+
+- **Reinforcement Learning for Robotics**
+- **Sim-to-Real Transfer**
+- **Bridging the Sim-to-Real Gap**
+- **Robot Manipulation**
+- **Dexterous Manipulation**
+- Multi-Agent Reinforcement Learning
+- Vision- and Tactile-based Perception for Manipulation
+- Dynamic & Agile Manipulation (e.g., in-flight object catching)
+- Bimanual Manipulation
+- Robot Teleoperation & Delay-Aware Scene Prediction
 
 <hr class="section-sep">
 
