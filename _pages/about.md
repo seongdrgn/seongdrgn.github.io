@@ -51,7 +51,7 @@ My research builds **reinforcement learning** methods that transfer reliably fro
   <div>
     <span class="pub-title">Pixel2Catch: Multi-Agent Sim-to-Real Transfer for Agile Manipulation with a Single RGB Camera</span><br>
     <b>Seongyong Kim</b>, Junhyeon Cho, Kang-Won Lee, Soo-Chul Lim<br>
-    <i>IEEE Robotics and Automation Letters (RA-L), 2026 (Accepted)</i>
+    <i>IEEE Robotics and Automation Letters, vol. 11, no. 8, pp. 9287–9294, August 2026</i>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/11563623" target="_blank">Paper</a>
       <a href="https://seongdrgn.github.io/pixel2catch/" target="_blank">Project Page</a>
