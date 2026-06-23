@@ -53,6 +53,7 @@ My research builds **reinforcement learning** methods that transfer reliably fro
     <b>Seongyong Kim</b>, Junhyeon Cho, Kang-Won Lee, Soo-Chul Lim<br>
     <i>IEEE Robotics and Automation Letters (RA-L), 2026 (Accepted)</i>
     <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/11563623" target="_blank">Paper</a>
       <a href="https://seongdrgn.github.io/pixel2catch/" target="_blank">Project Page</a>
       <a href="https://www.youtube.com/watch?v=kV10T-2zh5w" target="_blank">Video</a>
       <a href="https://github.com/seongdrgn/pixel2catch-github" target="_blank">Code</a>
