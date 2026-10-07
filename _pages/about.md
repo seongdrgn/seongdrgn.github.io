@@ -45,60 +45,68 @@ My research builds **reinforcement learning** methods that transfer reliably fro
 ## Publications
 
 <div class="pub">
-  <span class="pub-title">Pixel2Catch: Multi-Agent Sim-to-Real Transfer for Agile Manipulation with a Single RGB Camera</span>
   <div class="pub-thumb">
     <img src="files/pixel2catch.gif" alt="Pixel2Catch">
   </div>
-  <b>Seongyong Kim</b>, Junhyeon Cho, Kang-Won Lee, Soo-Chul Lim<br>
-  <i>IEEE Robotics and Automation Letters, vol. 11, no. 8, pp. 9287–9294, August 2026</i>
-  <div class="links">
-    <a href="https://ieeexplore.ieee.org/document/11563623" target="_blank">Paper</a>
-    <a href="https://seongdrgn.github.io/pixel2catch/" target="_blank">Project Page</a>
-    <a href="https://www.youtube.com/watch?v=kV10T-2zh5w" target="_blank">Video</a>
-    <a href="https://github.com/seongdrgn/pixel2catch-github" target="_blank">Code</a>
+  <div class="pub-body">
+    <span class="pub-title">Pixel2Catch: Multi-Agent Sim-to-Real Transfer for Agile Manipulation with a Single RGB Camera</span><br>
+    <b>Seongyong Kim</b>, Junhyeon Cho, Kang-Won Lee, Soo-Chul Lim<br>
+    <i>IEEE Robotics and Automation Letters, vol. 11, no. 8, pp. 9287–9294, August 2026</i>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/11563623" target="_blank">Paper</a>
+      <a href="https://seongdrgn.github.io/pixel2catch/" target="_blank">Project Page</a>
+      <a href="https://www.youtube.com/watch?v=kV10T-2zh5w" target="_blank">Video</a>
+      <a href="https://github.com/seongdrgn/pixel2catch-github" target="_blank">Code</a>
+    </div>
   </div>
 </div>
 
 <div class="pub">
-  <span class="pub-title">Progressive Policy Learning: A Hierarchical Framework for Dexterous Bimanual Manipulation</span>
   <div class="pub-thumb">
     <img src="files/progressive_policy_learning.gif" alt="Progressive Policy Learning">
   </div>
-  Kang-Won Lee, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
-  <i>Mathematics 2025, 13(22), 3585</i>
-  <div class="links">
-    <a href="https://www.mdpi.com/2227-7390/13/22/3585" target="_blank">Paper</a>
-    <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w" target="_blank">Video</a>
+  <div class="pub-body">
+    <span class="pub-title">Progressive Policy Learning: A Hierarchical Framework for Dexterous Bimanual Manipulation</span><br>
+    Kang-Won Lee, Jung-Woo Lee, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
+    <i>Mathematics 2025, 13(22), 3585</i>
+    <div class="links">
+      <a href="https://www.mdpi.com/2227-7390/13/22/3585" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=PXLsaaZMp6w" target="_blank">Video</a>
+    </div>
   </div>
 </div>
 
 <div class="pub">
-  <span class="pub-title">Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data with User Commands</span>
   <div class="pub-thumb">
     <img src="files/video_prediction_result.gif" alt="Scene Prediction">
   </div>
-  Seunghyeon Ha*, <b>Seongyong Kim*</b>, Soo-Chul Lim<br>
-  <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846–2853, March 2025</i><br>
-  <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</i> <span class="tag">Oral &amp; Poster Presentation</span>
-  <div class="links">
-    <a href="https://ieeexplore.ieee.org/document/10857415" target="_blank">Paper</a>
-    <a href="https://seongdrgn.github.io/scene-prediction-quadruped/" target="_blank">Project Page</a>
-    <a href="https://www.youtube.com/watch?v=wL9UEJnq53s" target="_blank">Video</a>
-    <a href="files/IROS2025_Poster.pdf" target="_blank">Poster</a>
+  <div class="pub-body">
+    <span class="pub-title">Prediction of Delay-Free Scene for Quadruped Robot Teleoperation: Integrating Delayed Data with User Commands</span><br>
+    Seunghyeon Ha*, <b>Seongyong Kim*</b>, Soo-Chul Lim<br>
+    <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2846–2853, March 2025</i><br>
+    <i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)</i> <span class="tag">Oral &amp; Poster Presentation</span>
+    <div class="links">
+      <a href="https://ieeexplore.ieee.org/document/10857415" target="_blank">Paper</a>
+      <a href="https://seongdrgn.github.io/scene-prediction-quadruped/" target="_blank">Project Page</a>
+      <a href="https://www.youtube.com/watch?v=wL9UEJnq53s" target="_blank">Video</a>
+      <a href="files/IROS2025_Poster.pdf" target="_blank">Poster</a>
+    </div>
+    <span class="note">* Equal contribution</span>
   </div>
-  <span class="note">* Equal contribution</span>
 </div>
 
 <div class="pub">
-  <span class="pub-title">Effects of Sensing Tactile Arrays, Shear Force, and Proprioception of Robot on Texture Recognition</span>
   <div class="pub-thumb">
     <img src="files/array_tactile.gif" alt="Array Tactile">
   </div>
-  Jung-Hwan Yang, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
-  <i>Sensors 23, no. 6: 3201</i>
-  <div class="links">
-    <a href="https://www.mdpi.com/1424-8220/23/6/3201" target="_blank">Paper</a>
-    <a href="https://www.youtube.com/watch?v=l--EEY5fy4g" target="_blank">Video</a>
+  <div class="pub-body">
+    <span class="pub-title">Effects of Sensing Tactile Arrays, Shear Force, and Proprioception of Robot on Texture Recognition</span><br>
+    Jung-Hwan Yang, <b>Seongyong Kim</b>, Soo-Chul Lim<br>
+    <i>Sensors 23, no. 6: 3201</i>
+    <div class="links">
+      <a href="https://www.mdpi.com/1424-8220/23/6/3201" target="_blank">Paper</a>
+      <a href="https://www.youtube.com/watch?v=l--EEY5fy4g" target="_blank">Video</a>
+    </div>
   </div>
 </div>
 
