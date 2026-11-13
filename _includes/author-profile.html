@@ -25,6 +25,9 @@
       {% if author.github %}
         <li class="lnk-github"><a href="https://github.com/{{ author.github }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>GitHub</a></li>
       {% endif %}
+      {% if author.linkedin %}
+        <li class="lnk-linkedin"><a href="{{ author.linkedin }}" target="_blank" rel="noopener noreferrer"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
+      {% endif %}
       {% if author.googlescholar %}
         <li class="lnk-scholar"><a href="{{ author.googlescholar }}" target="_blank" rel="noopener noreferrer"><i class="ai ai-google-scholar ai-fw icon-pad-right"></i>Google Scholar</a></li>
       {% endif %}
